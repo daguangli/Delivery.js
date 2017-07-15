@@ -1,12 +1,12 @@
 {
-  "name": "delivery",
+  "name": "socket-delivery",
   "description": "Bidirectional File Transfers For Node.js via Socket.IO",
   "author": {
     "name": "Liam Kaufman",
     "email": "liam.kaufman@gmail.com",
     "web": "http://liamkaufman.com"
   },
-  "version": "0.0.6",
+  "version": "0.0.7",
   "keywords": [
     "file",
     "transfer",
